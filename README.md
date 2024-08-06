@@ -13,6 +13,12 @@ It includes functionalities for user registration, login, and standard banking o
 * Fund Transfer
 * Transaction History
 * Spending Analysis
+## Tools
+
+* Python
+* Python Libraries
+* PostgresSQL
+* Streamlit
   
 ## Project Structure
 
