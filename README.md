@@ -1,4 +1,4 @@
-# Banking Simulation system and Analysis of User Tranactions
+# Smart Banking and Analysis of User Tranactions
 This project is an intelligent banking application designed to provide standard banking operations along with personalized financial analysis.
 
 ## Introduction
