@@ -27,4 +27,4 @@ It includes functionalities for user registration, login, and standard banking o
 * Register.py: Manages user registration process.
 
 ## Project Demo:
-[Link](https://www.linkedin.com/posts/nilofer-mubeen-35937a28b_guvi-dwellfi-activity-7227309715280515072-eJQJ?utm_source=share&utm_medium=member_desktop)]
+Click here for [Link ](https://www.linkedin.com/posts/nilofer-mubeen-35937a28b_guvi-dwellfi-activity-7227309715280515072-eJQJ?utm_source=share&utm_medium=member_desktop)]
