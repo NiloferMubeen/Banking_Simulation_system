@@ -1,3 +1,4 @@
+
 # Smart Banking and Analysis of User Tranactions
 This project is an intelligent banking application designed to provide standard banking operations along with personalized financial analysis.
 
@@ -27,4 +28,4 @@ It includes functionalities for user registration, login, and standard banking o
 * Register.py: Manages user registration process.
 
 ## Project Demo:
-Click here for [Link ](https://www.linkedin.com/posts/nilofer-mubeen-35937a28b_guvi-dwellfi-activity-7227309715280515072-eJQJ?utm_source=share&utm_medium=member_desktop)
+https://github.com/user-attachments/assets/65b9e450-8647-416a-b157-d799e4f031cc
